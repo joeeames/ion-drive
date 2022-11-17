@@ -1,6 +1,6 @@
 {
   "name": "mars-ion-drive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "let's get to mars",
   "main": "index.js",
   "scripts": {
